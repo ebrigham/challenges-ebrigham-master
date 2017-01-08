@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 .DS_Store
 node_modules
 npm-debug.log
 .vscode
-=======
-.DS_Store
-node_modules
-npm-debug.log
-.vscode
->>>>>>> origin/master
 .idea
